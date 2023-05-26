@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love Cooking.**
 <img align="right" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HBsBP4Ycvs-0LxGDmqPOJQ.png">
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikmudsirali&" alt="shaikmudsirali" /></p>
 
+ -->
