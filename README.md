@@ -10,9 +10,9 @@
 
 - 🌱 I’m Passionate const react = dev;
 
-- 💬 Ask me about **React, Android, MEARN..**
+- 💬 Ask me about ⭐ Android, ⭐ MERN.
 
-- 📫 How to reach me **mudsirshaik33@gmail.com**
+- 📫 How to reach me 🎗️ mudsirshaik33@gmail.com 🎗️.
 
 - ⚡ Fun fact **I love Cooking.**
 <img align="right" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HBsBP4Ycvs-0LxGDmqPOJQ.png">
